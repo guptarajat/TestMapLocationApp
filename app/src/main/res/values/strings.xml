@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SubmitMapLocation</string>
+    <string name="prompt">Please touch the floating action button to add an address"</string>
+    <string name="showMap">Show Map</string>
+</resources>
